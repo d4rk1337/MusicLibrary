@@ -1,0 +1,64 @@
+HTTP GET:
+http://www.nuclearblast.de/en/shop/artikel/gruppen/51000.1.html?article_group_sort_type_handle=rank&custom_keywords=WITHIN%20THE%20RUINS
+
+
+DIV:
+<div class="article-view article-view-prev clearfix">
+	<ul class="article-view-preview-list">
+		<li ...>
+		<li ...>
+	</ul>
+</div>
+
+
+ITEM:
+<li class="article-preview article-preview-first custom-article-type-default">
+	<table>
+		<tbody>
+			<tr>
+				<td class="article-preview">
+					<a class="article-image" href="http://www.nuclearblast.de/en/products/tontraeger/cd/cd/within-the-ruins-invade.html">
+						<img src="http://www.nuclearblast.de/static/articles/172/172157.jpg/155x155.jpg" alt="WITHIN THE RUINS - Invade" title="WITHIN THE RUINS - Invade" />
+					</a>
+					<div>
+						<h2>
+							<a href="http://www.nuclearblast.de/en/products/tontraeger/cd/cd/within-the-ruins-invade.html">WITHIN THE RUINS</a>
+							<span class="descr">Invade</span>
+						</h2>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td class="article-preview-footer">
+					<table>
+						<tr>
+							<td class="bold article-preview-footer-label">
+								CD
+								<span class="article-price">
+									<span class="article-price-decorator"> - </span>
+									15.50&nbsp;EUR
+								</span>
+								<span data-euro-price="15.50" class="custom-currency-foreign-price"></span>
+							</td>
+						</tr>
+						<tr>
+							<td class="article-preview-footer-price">
+								<script type="text/javascript">frontend.stockState.display('172157');</script>
+								<div class="article-group-tax">
+									incl. 19% VAT, plus 
+									<a href="http://www.nuclearblast.de/en/shop/general/versand.html">shipping fee</a>
+								</div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td class="add-to-basket">
+					<input type="hidden" value=""  class="amount hidden" name="articles[85198][amount]" id="articles_85198_amount" />
+					<input type="submit" value="to Shopping basket"  class="article-group-add-to-basket" name="add_article[85198]"/>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</li>

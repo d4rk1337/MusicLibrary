@@ -1,0 +1,44 @@
+HTTP GET:
+http://www.emp.de/musik-film/?filter[]=productcategory_CDs&filter[]=bandbrand_3%20Doors%20Down
+
+
+DIV:
+<div class="dc0" id="articlelist" itemprop="mainContentOfPage" itemscope="true" itemtype="http://schema.org/WebPageElement">
+	<li ...>
+	<li ...>
+</div>
+
+
+ITEM:
+<li id="listitem204234" data-artnr="204234" class="listitem theme_border" style="" itemscope itemtype="http://schema.org/Product">
+    <a class="black articles" data-tc="" itemprop="url" href="http://www.emp.de/3-doors-down-time-of-my-life-cd/art_204234/" title="3 Doors Down - CD Time of my life (204234)">
+        <span class="article_facelift" itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="name" content="Time of my life von 3 Doors Down" />
+            <meta itemprop="caption" content="CD: Time of my life von 3 Doors Down" />
+            <img src="http://cdn.acfrg.com/i/170_230_fit___png/ACfrG/productpics_fullsize/2/204234.jpg" alt="Time of my life" title="" itemprop="image"/>
+        </span>
+        <span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="itemPrice">
+            <link itemprop="itemCondition" href="http://schema.org/NewCondition" />
+            <span class="price h3 nopadding">
+                <meta itemprop="priceCurrency" content="EUR" />
+                <link itemprop="availability" href="http://schema.org/InStock" />
+                <meta itemprop="price" content="€ 16,99" />
+                <span class="listingprice_reg">€ 16,9</span>
+            </span>
+        </span>
+        <span class="titlebox small">
+            <span class="title" itemprop="name">Time of my life </span>
+            <span class="bandBrand grey" itemprop="brand">3 Doors Down </span>
+            <span class="productType grey" itemprop="description">CD </span>
+            <meta itemprop="productID" content="sku:204234" />
+            <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+                <meta itemprop="itemReviewed" content="Time of my life" />
+                <meta itemprop="ratingValue" content="4.0" />
+                <meta itemprop="reviewCount" content="1" />
+                <meta itemprop="bestRating" content="5" />
+                <meta itemprop="worstRating" content="1" />
+            </span>
+            <span class="review_stars_small grey review_rating4 listing_stars">(1)</span>
+        </span>
+    </a>
+</li>

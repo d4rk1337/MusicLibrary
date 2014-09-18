@@ -1,0 +1,9 @@
+http://www.emp.de/lis_Amon%20Amarth_bandbrand
+
+http://www.emp.de/lis_Accept_bandbrand//
+
+http://www.emp.de/lis_%%BAND_NAME%%_bandbrand//
+
+http://www.emp.de/musik-film/?layout=list_4column&items=36&filter[]=productcategory_CDs&filter[]=bandbrand_30%20Seconds%20To%20Mars
+
+http://www.emp.de/musik-film/?filter[]=productcategory_CDs&filter[]=bandbrand_30%20Seconds%20To%20Mars
